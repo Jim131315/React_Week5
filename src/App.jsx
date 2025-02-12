@@ -407,7 +407,7 @@ function App() {
                 }
               })}
               id="tel"
-              type="text"
+              type="tel"
               className={`form-control ${errors.tel && 'is-invalid'}`}
               placeholder="請輸入電話"
             />
